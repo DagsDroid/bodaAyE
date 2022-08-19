@@ -1,0 +1,19 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background: #fbfcfa;
+	width: 100%;
+	height: auto;
+}
+
+video{
+	width: 100% !important;
+}
+
+.cancion{
+	display: none;
+}
+
